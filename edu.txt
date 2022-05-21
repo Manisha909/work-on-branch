@@ -1,3 +1,5 @@
 school
 inter college
+architecture
 mpc
+
